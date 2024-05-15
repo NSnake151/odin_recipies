@@ -1,9 +1,28 @@
-h1{
-    font-size: 30px;
+.title{
+    font-size: 36px;
+}
+
+.subheadings{
+    font-size: 26px;
+    
+}
+
+.heading{
     font-weight: bold;
-    color: blue;
+    color:blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .Ingredients{
     font-style: italic;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.photo {
+    width: 300px;
+    height: auto;
 }
