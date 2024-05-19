@@ -1,3 +1,7 @@
+body{
+    background-color: purple;
+}
+
 .title{
     font-size: 36px;
 }
@@ -22,7 +26,69 @@ body{
     
 }
 
+div{
+    box-sizing:content-box;
+    border: 2px solid black;
+}
+
+.photo_div{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    background-color: red;
+    
+    width: 500px;
+    
+
+    
+}
+
 .photo {
     width: 300px;
     height: auto;
+    padding:10px;
+    background-color: orange;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;  
+    border: 2px solid black;
+  
+    
 }
+
+.recipie_body{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(222, 230, 189);
+    width: 1000px;
+    padding: 8px;
+    box-sizing: content-box;
+}
+
+.desc_heading_div{
+
+}
+
+.desc_div{
+
+}
+
+.ing_heading_div{
+
+}
+
+.ing_div{
+
+}
+
+.steps_heading_div{
+
+}
+
+.steps_div{
+
+}
+
